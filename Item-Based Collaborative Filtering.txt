@@ -1,0 +1,2 @@
+﻿Item-Based Collaborative Filtering
+No lo  he entendido lo suficiente todavía para comentar

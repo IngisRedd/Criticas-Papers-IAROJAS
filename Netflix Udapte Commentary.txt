@@ -1,0 +1,5 @@
+﻿Netflix Update Commentary
+Siendo el primer paper que leo sobre el ramo, me pareció muy interesante el estilo de escritura, que dentro de todo fue agradable para alguien sin conocimientos como yo.
+
+
+Llama la atención que el algoritmo, por lo menos en su funcionamiento básico,muestra ser mucho más simple de lo que hubiera supuesto en un algortimo de recomendación para una gran compañía, como resulta ser  Netflix. La mirada que tiene del problema es un modelo intuitivo. Parece natural clasificar las películas según cuánto presenten sobre cierta característica específica (Acción, Comedia...)

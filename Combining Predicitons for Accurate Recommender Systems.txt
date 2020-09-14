@@ -1,0 +1,9 @@
+Comentary on “Combining Predictions for Accurate Recommender Systems”
+
+It’s interesting to read a paper with a more statistical view this time. Previous papers usually dealt with how specific algorithms operate, but this method works most prominently based on the statistical supposition that the combined results from various different experiments are closer to reality than these results separately. This means there is less analysis about the specifics of each algorithm, and more time is spent with finding the right ways to blend them together.
+
+It’s especially interesting how they manage to do that. Since different algorithms have different nature, more than once it will be necessary to give different treatment to their results in order to blend them into the final model. I would like to see how a model such as the one presented in these papers would evolve in the future, as more and better algorithms are developed and integrated in such a model
+
+The biggest issue I see in such cases is how the model operates in regards to overall time consumption. It seems logical to think that as more complexity and extra steps are added to the model setup and processes, time consumption could easily become a problem.
+
+In any case, the idea of integrating various different prediction algorithms into one model to reach new levels of precision has a lot of room for expansion, combining different techniques in different recommender system contexts.
